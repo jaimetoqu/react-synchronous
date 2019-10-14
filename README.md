@@ -1,1 +1,1 @@
-# react-synchronous
+# React synchronous with Redux 
